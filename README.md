@@ -11,8 +11,8 @@ This project was created as part of my Java module in University. It involved cr
 - The **enemies in the game move automatically**, this is done using collision detection and adds some difficulty to the levels
 - The **value of the lives carries on to the next level**
 
-### To view a demo of the click the video below:
-[![Demo CountPages alpha](https://j.gifs.com/XLNqNV.gif)](https://www.youtube.com/watch?v=t1-FVqPP5NQ&ab_channel=TejasKerai)
+### To view a demo of the game click the video below:
+[![RoboRun](https://j.gifs.com/XLNqNV.gif)](https://www.youtube.com/watch?v=t1-FVqPP5NQ&ab_channel=TejasKerai)
 
 ## Installation
 Clone the repository
