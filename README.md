@@ -20,4 +20,4 @@ Clone the repository
 git@github.com:tejaskerai/RoboRun.git
 ```
 
-You will need intelliJ to run the application, the library CityEngine is used in this application and is included in the lib folder. Run the Game.Java file.
+You will need intelliJ to run the application, the library CityEngine is used in this application and is included in the lib folder. Run the Game.java file.
