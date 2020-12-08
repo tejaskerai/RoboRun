@@ -6,7 +6,136 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2edc60f4-2a39-4649-a781-d433f2293570" name="Default Changelist" comment="" />
+    <list default="true" id="2edc60f4-2a39-4649-a781-d433f2293570" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/RoboRun_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/CityEngine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Description of features.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RoboRun.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RoboRun.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/built-jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/PolygonEditor$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/PolygonEditor$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/PolygonEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/ControlPanel$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/ControlPanel$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/ControlPanel$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/ControlPanel$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/ControlPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/DoorListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/GameLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/GiveFocus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/ItemPickUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/MyView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/PlatformMaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/enemy/Enemy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/enemy/EnemyCollision.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/levels/Level1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/levels/Level2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/levels/Level3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/pickUpItems/Diamond.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/pickUpItems/Door.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/pickUpItems/Heart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/player/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/game/player/PlayerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Enemy_sprite_sheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/background.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/compiled_mega_man_sprite_sheet_by_metroidpeter-dahqbt6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/diamond.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/diamond.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/diamond2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/diamondSound.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/door image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/door image.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/door.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/doorSound.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/enemySound.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/enemy_left_run.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/enemy_left_run.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/enemy_right_run.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/enemy_right_run.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/game_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/heart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/heartSound.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kirbysuperstar_kirby_shee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/music.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/music2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/music3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/open door.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/player_left_idle.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/player_left_idle.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/player_left_run.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/player_left_run.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/player_right_idle.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/player_right_idle.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/player_right_jump.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/player_right_jump.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/player_right_run.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/player_right_run.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/CityEngine.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/RoboRun_jar/RoboRun.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/PolygonEditor$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/PolygonEditor$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/PolygonEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/ControlPanel$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/ControlPanel$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/ControlPanel$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/ControlPanel$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/ControlPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/DoorListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/GameLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/GiveFocus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/ItemPickUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/MyView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/PlatformMaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/enemy/Enemy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/enemy/EnemyCollision.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/levels/Level1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/levels/Level2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/levels/Level3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/pickUpItems/Diamond.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/pickUpItems/Door.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/pickUpItems/Heart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/player/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RoboRun/game/player/PlayerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/ControlPanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/ControlPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/DoorListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/GameLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/GiveFocus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/ItemPickUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/MyView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/PlatformMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/PolygonEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/enemy/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/enemy/EnemyCollision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/levels/Level1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/levels/Level2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/levels/Level3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/pickUpItems/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/pickUpItems/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/pickUpItems/Heart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/player/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/player/PlayerController.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,12 +146,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="951" />
     <option name="y" value="-9" />
     <option name="width" value="978" />
     <option name="height" value="1048" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -53,7 +186,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607438051710" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607438309918" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
