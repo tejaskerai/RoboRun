@@ -14,6 +14,12 @@ This project was created as part of my Java module in University. It involved cr
 ### To view a demo of the game click the video below:
 [![RoboRun](https://j.gifs.com/XLNqNV.gif)](https://www.youtube.com/watch?v=t1-FVqPP5NQ&ab_channel=TejasKerai)
 
+## Tech Stack
+These tools were used to create the application:
+- **Netbeans** - IDE
+- **Java** - Programming language
+- **CityEngine40** - Game Engine provided by City, University used to create game physics
+- 
 ## Installation
 Clone the repository
 ```
