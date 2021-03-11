@@ -19,7 +19,7 @@ These tools were used to create the application:
 - **Netbeans** - IDE
 - **Java** - Programming language
 - **CityEngine40** - Game Engine provided by City, University used to create game physics
-- 
+
 ## Installation
 Clone the repository
 ```
